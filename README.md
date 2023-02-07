@@ -1,14 +1,14 @@
 # envconfig
 
-[![Build Status](https://travis-ci.org/kelseyhightower/envconfig.svg)](https://travis-ci.org/kelseyhightower/envconfig)
+[![Build Status](https://travis-ci.org/utrack/envconfig.svg)](https://travis-ci.org/utrack/envconfig)
 
 ```Go
-import "github.com/kelseyhightower/envconfig"
+import "github.com/utrack/envconfig"
 ```
 
 ## Documentation
 
-See [godoc](http://godoc.org/github.com/kelseyhightower/envconfig)
+See [godoc](http://godoc.org/github.com/utrack/envconfig)
 
 ## Usage
 
